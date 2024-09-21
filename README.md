@@ -27,15 +27,14 @@ About the Programmer:
 
 Name: Abhinandan Parhi
 LinkedIn Profile: https://www.linkedin.com/in/abhinandan-parhi-ap
+
 Note:
-
 This script is intended for entertainment purposes.
-Running the Script:
 
+Running the Script:
 Save the code as **fun.py**.
 Open a terminal or command prompt and navigate to the directory where you saved fun.py.
 Run the script using the following command:
-
 **python fun.py**
 Use code with caution.
 
