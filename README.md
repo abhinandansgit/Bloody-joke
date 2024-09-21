@@ -7,6 +7,7 @@ Installation:
 Before using this script, you'll need to install the pyjokes library:
 
 **pip install pyjokes**
+
 Use code with caution.
 
 How it Works:
